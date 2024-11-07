@@ -6,13 +6,6 @@ This is a Java project that implements a `StringProcessor` class with methods fo
 - Calculating the number of words in a sentence
 - Evaluating mathematical expressions from a string
 
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Testing](#testing)
-- [License](#license)
-
 ## Description
 The `StringProcessor` class provides the following methods:
 
